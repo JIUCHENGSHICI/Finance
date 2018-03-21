@@ -1,0 +1,27 @@
+
+
+.user-sign {
+    height: 80px;
+    line-height: 80px;
+}
+
+.inde-sign-font {
+    color: rgb(202, 35, 28);
+}
+
+.user-red-color {
+    color: #cb2016;
+}
+
+
+/* 以上是表头的样式 */
+
+.information {
+    margin-left: 10px;
+}
+
+.infor-color {
+    color: gray;
+}
+
+

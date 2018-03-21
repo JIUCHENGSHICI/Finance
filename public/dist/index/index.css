@@ -1,0 +1,58 @@
+
+
+.index-sign {
+    height: 80px;
+    line-height: 80px;
+}
+
+.inde-sign-font {
+    color: #ca231c;
+}
+.index-red-color {
+    color: #ca231c;
+}
+
+.jumbotron {
+    padding-top: 5px;
+}
+
+.index-content {
+    font-size: 16px;
+    font-family: "Microsoft YaHei";
+    color: rgb(102, 101, 101);
+    line-height: 1.2;
+}
+
+.index-pages-color {
+    background: red;
+}
+
+.index-frame {
+    width: 450px;
+    height: 510px;
+    background: white;
+    position: fixed;
+    top: -9px;
+    margin-left: 25%;
+    margin-top: 120px;
+    border: 1px solid gray;
+    border-radius: 2%;
+}
+
+.index-frame-margin {
+    margin-top: 25px;
+}
+
+.shopcar {
+    background: #9c0903;
+    color: white;
+}
+.fenye {
+    background: gray;
+}
+
+
+
+.hide {
+    display: none;
+}

@@ -1,0 +1,20 @@
+
+.order-sign{
+    height: 80px;
+    line-height: 80px;
+
+}
+.inde-sign-font{
+    color: red;
+}
+.order-red-color{
+    color: #cb2016;
+}
+/* 以上是表头的样式 */
+.discount{
+    color: #cb2016;
+    font-size: 18px;    
+}
+.reduction{
+    margin-left: 3%;
+}
